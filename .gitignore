@@ -1,0 +1,8 @@
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/threats.db
+frontend/node_modules/
+frontend/dist/
+*.pyc
+.env
